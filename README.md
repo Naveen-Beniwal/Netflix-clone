@@ -1,7 +1,6 @@
 # 🎬 Netflix Clone
 
 <div align="center">
-  <img src="./public/demo.png" alt="Netflix Clone Demo" width="800"/>
   
   > A modern Netflix-inspired streaming platform built with MERN stack and TMDB API
   
